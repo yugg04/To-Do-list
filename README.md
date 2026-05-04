@@ -86,7 +86,3 @@ If you found this useful, consider giving it a ⭐
 ---
 
 
-* No deployment → weak portfolio value
-* No advanced JS concepts → low differentiation
-
-If you want, I can upgrade this into a **portfolio-level project** (with local storage, filters, dark mode, etc.).
