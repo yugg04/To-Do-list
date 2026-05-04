@@ -1,26 +1,92 @@
 
-# To-Do List App 📝
 
-A simple and efficient To-Do List application built using HTML, CSS, and JavaScript. This app helps users manage daily tasks by allowing them to add, complete, and delete tasks with an easy-to-use interface.
+# 📝 To-Do List App
 
-🚀 Features
+A lightweight and responsive **task management application** built using **HTML, CSS, and JavaScript**.
+It allows users to efficiently manage daily tasks with real-time updates and a clean interface.
 
-Add new tasks
+---
 
-Mark tasks as completed
 
-Delete tasks
 
-Real-time UI updates
+## 🧠 Overview
 
-Simple and clean design
+This project focuses on **core JavaScript concepts** such as DOM manipulation, event handling, and dynamic UI updates without relying on external libraries.
 
-No external libraries used
+---
 
-🛠️ Technologies Used
+## ⚙️ Features
 
-HTML – structure of the application
+* ➕ Add new tasks
+* ✅ Mark tasks as completed
+* ❌ Delete tasks
+* 🔄 Real-time UI updates
+* 🎯 Simple and intuitive interface
+* 📦 No external dependencies
 
-CSS – styling and layout
+---
 
-JavaScript – logic and DOM manipulation
+## 🛠 Tech Stack
+
+* **HTML** — Structure
+* **CSS** — Styling and layout
+* **JavaScript** — Logic and DOM manipulation
+
+---
+
+## 📂 Project Structure
+
+```id="todolist1"
+To-Do-List-App/
+│── index.html      # Main HTML file
+│── style.css       # Styling
+│── script.js       # App logic
+│── README.md
+```
+
+---
+
+## ⚡ How to Run
+
+1. Clone the repository
+
+```bash id="todolist2"
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
+```
+
+2. Open in browser
+
+```bash id="todolist3"
+open index.html
+```
+
+---
+
+## 📌 Limitations
+
+* Tasks are not stored permanently (no local storage/database)
+* No user authentication
+* Basic UI (no advanced styling or animations)
+
+---
+
+
+
+## 👨‍💻 Author
+
+**Yug Khatri**
+
+---
+
+## ⭐ Support
+
+If you found this useful, consider giving it a ⭐
+
+---
+
+
+* No deployment → weak portfolio value
+* No advanced JS concepts → low differentiation
+
+If you want, I can upgrade this into a **portfolio-level project** (with local storage, filters, dark mode, etc.).
